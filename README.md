@@ -1,4 +1,6 @@
-## Hi there 👋
+## Welcome to my GitHub
+
+Exploring technology, sharing knowledge, and growing together through hands-on projects in IT support, cybersecurity, and automation.
 ![Joel W — IT Support and Cybersecurity Specialist](banner.png) 
 <!--
 **Joel512021/Joel512021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
