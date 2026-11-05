@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Joel W — IT Support and Cybersecurity Specialist](banner.png)
+![Joel W — IT Support and Cybersecurity Specialist](banner.png) 
 <!--
 **Joel512021/Joel512021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
